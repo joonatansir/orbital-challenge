@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: #fff;
+  font-family: monospace;
+}
+
+canvas {
+  width: 100%;
+  height: 100%
+}
+
+#data {
+  margin: 1em;
+  white-space: pre;
+}
+
+#visualization {
+  margin-top: 1em;
+}
